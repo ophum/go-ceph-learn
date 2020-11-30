@@ -1,2 +1,7 @@
-# go-cephの勉強
+# go-ceph の勉強
 
+## requirements
+
+```
+apt install librbd-dev librados-dev
+```

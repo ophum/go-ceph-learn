@@ -1,0 +1,4 @@
+ceph.conf
+ceph.client.admin.keyring
+go-ceph-learn
+focal-server-cloudimg-amd64.img
